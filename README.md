@@ -14,7 +14,7 @@ GitHub: [Ginsburg1](https://github.com/Ginsburg1)
 ---  
 ## EDUCATION
 **University of Denver**, Denver, CO  
-*Bachelor of Science (B.S.) in Computer Science* (March 2025)  
+*Bachelor of Science (B.S.) in Computer Science* 
 Major GPA: 3.9  
 Minors: Mathematics, Business Information Analysis  
 
@@ -127,5 +127,5 @@ Minors: Mathematics, Business Information Analysis
 - Communication  
 - Teamwork  
 - Problem Solving  
-- Leadership
+- Leadership  
 
