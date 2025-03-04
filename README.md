@@ -7,7 +7,8 @@
 
 ---
 Denver, CO • Studio City, CA • (818) 651-2955 • benjamin.ginsburg@du.edu  
-LinkedIn: [www.linkedin.com/in/GinsburgBenjamin](https://www.linkedin.com/in/GinsburgBenjamin) • GitHub: [Ginsburg1](https://github.com/Ginsburg1)
+LinkedIn: [www.linkedin.com/in/GinsburgBenjamin](https://www.linkedin.com/in/GinsburgBenjamin) 
+GitHub: [Ginsburg1](https://github.com/Ginsburg1)
 
 
 ---  
@@ -20,8 +21,19 @@ Minors: Mathematics, Business Information Analysis
 **Charles University**, Prague, Czech Republic  
 *August 2024 - December 2024*  
 
-
-
+---  
+## RELEVANT COURSEWORK
+- Programming Languages  
+- Data Structures and Algorithms  
+- Software Engineering (Python and Embedded Systems)
+- Computer Systems in C and C++  
+- Computer Organization 
+- Human Computer Interactions
+- Human Centered Cyber Security 
+- Python for Data Science
+- Discrete Mathematics
+- Introduction to Advanced Probability 
+- Web Programming (HTML, CSS, JavaScript)
 
 ---  
 ## TECHNICAL SKILLS & CERTIFICATIONS
@@ -109,3 +121,11 @@ Minors: Mathematics, Business Information Analysis
 **Beta Theta Pi, Denver, CO**  
 - Vice President of Internal Affairs (January 2023 - June 2023)  
 - Vice President of House and Risk Management (August 2022 - June 2023)
+
+---  
+## SOFT SKILLS
+- Communication  
+- Teamwork  
+- Problem Solving  
+- Leadership
+
