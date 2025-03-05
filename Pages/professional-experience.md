@@ -1,16 +1,21 @@
 # Benjamin Ginsburg
 
-<div style="text-align:center; margin-bottom:20px;">
-  <a href="Education.md" style="display:inline-block; margin:5px; padding:8px 12px; background:#007ACC; color:#fff; text-decoration:none; border-radius:4px;">Education</a>
-  <a href="skills.md" style="display:inline-block; margin:5px; padding:8px 12px; background:#007ACC; color:#fff; text-decoration:none; border-radius:4px;">Skills</a>
-  <a href="Projects.md" style="display:inline-block; margin:5px; padding:8px 12px; background:#007ACC; color:#fff; text-decoration:none; border-radius:4px;">Projects</a>
-  <a href="professional-experience.md" style="display:inline-block; margin:5px; padding:8px 12px; background:#007ACC; color:#fff; text-decoration:none; border-radius:4px;">Professional Experience</a>
-  <a href="Leadership.md" style="display:inline-block; margin:5px; padding:8px 12px; background:#007ACC; color:#fff; text-decoration:none; border-radius:4px;">Leadership</a>
-  <!-- Soft Skills link removed -->
-</div>
-
-<div style="text-align:center; margin-bottom:20px;">
-  <a href="../README.md" style="display:inline-block; margin:5px; padding:8px 12px; background:#555; color:#fff; text-decoration:none; border-radius:4px;">Back</a>
+<div align="center">
+  <a href="Education.md">
+    <img src="https://img.shields.io/badge/Education-%23007ACC?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="skills.md">
+    <img src="https://img.shields.io/badge/Skills-%23007ACC?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="Projects.md">
+    <img src="https://img.shields.io/badge/Projects-%23007ACC?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="professional-experience.md">
+    <img src="https://img.shields.io/badge/Professional%20Experience-%23007ACC?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="Leadership.md">
+    <img src="https://img.shields.io/badge/Leadership-%23007ACC?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 # PROFESSIONAL EXPERIENCE
