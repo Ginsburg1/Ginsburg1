@@ -20,6 +20,7 @@
   </a>
 </div>
 
+<br>
 
 <p style="font-size:14pt;">I am a highly technical software engineer with deep programming skills and the ability to solve complicated high value business challenges, looking to augment a team by contributing highly technical analysis to optimize business performance.</p>
 
