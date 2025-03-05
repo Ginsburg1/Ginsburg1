@@ -26,10 +26,6 @@
 
 
 
-<div style="text-align:center; margin-bottom:20px;">
-  <a href="../README.md" style="display:inline-block; margin:5px;s padding:8px 12px; background:#555; color:#fff; text-decoration:none; border-radius:4px;">Back</a>
-</div>
-
 # TECHNICAL SKILLS & CERTIFICATIONS
 
 <!-- Example: A 2x2 grid table for skills -->
