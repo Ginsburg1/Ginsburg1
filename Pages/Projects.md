@@ -15,10 +15,10 @@
 
 # PROJECTS
 
-- **R Project:** [How does Travel Affect Baseball](..//HDTAB%20project.html) (Spring 2024)
+- **R Project:** [How does Travel Affect Baseball](..//HDTAB_project.R) (Spring 2024)
 
   - Analyzed travel distance data and applied statistical modeling and visualization in R.
-  - Presented [findings](..//HDTAB%20findings.Rmd) to professor and class.
+  - Presented [findings](..//HDTAB_results.pdf) to professor and class.
 - **SQL Database Creation (Winter 2024)**  
   - Created a mock ice cream store scenario, designed a database schema in Visio, and wrote queries in Access and SQL.
 - **Madden Data Analysis Project (Spring 2023)**  
