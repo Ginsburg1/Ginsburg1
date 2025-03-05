@@ -20,9 +20,9 @@
 Major GPA: 3.9  
 Minors: Mathematics, Business Information Analysis  
 
-**Charles University**, Prague, Czech Republic  
+**Charles University**, Prague, Czech Republic  (Study Abroad Program)
 *August 2024 - December 2024*
-(Study Abroad Program)
+
 
 # RELEVANT COURSEWORK
 ## Computer Science
