@@ -32,7 +32,7 @@
 - Collaborated with professors to complete a project focused on web scraping and analyzing sports data.
 - Developed an R package using Selenium and other web scraping tools to aggregate and analyze sports data.
 - Successfully published the package on CRAN, making it accessible to everyone using R.
-- [Link to Publicaion](https://cran.r-project.org/web/packages/ProSportsDraftData/index.html)
+- [Link to Publication](https://cran.r-project.org/web/packages/ProSportsDraftData/index.html)
 
 **University of Denver, Denver, CO**  
 *Grader for the Mathematics Department (September 2023 - Current)*  
