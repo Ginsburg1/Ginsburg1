@@ -18,9 +18,13 @@
   </a>
 </div>
 
-<div style="text-align:center; margin-bottom:20px;">
-  <a href="../README.md" style="display:inline-block; margin:5px; padding:8px 12px; background:#555; color:#fff; text-decoration:none; border-radius:4px;">Back</a>
+
+<div align="center" style="margin-top: 10px;">
+  <a href="../README.md">
+    <img src="https://img.shields.io/badge/Back-%23555?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
+
 
 # EDUCATION
 

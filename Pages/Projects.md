@@ -18,6 +18,12 @@
   </a>
 </div>
 
+<div align="center" style="margin-top: 10px;">
+  <a href="../README.md">
+    <img src="https://img.shields.io/badge/Back-%23555?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
 
 # PROJECTS
 
